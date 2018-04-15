@@ -8,7 +8,3 @@ echo "Hello my dear friend";
 <script>
 
 </script>
-echo "Hello world;";
-echo "Hello all!;";
- echo "<h1></h1>"
-?>
