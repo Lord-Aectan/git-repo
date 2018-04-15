@@ -4,3 +4,7 @@ echo "Hello all!";
  echo "<h1></h1>";
 echo "Hello my dear friend";
 ?>
+
+<script>
+
+</script>
